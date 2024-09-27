@@ -13,6 +13,11 @@ function areaQuadrado (lado){
 }
 console.log(areaQuadrado(4));
 
-let media = function(num1,num2,num3){
+let valoresMedia = parseInt(prompt('insira valor 1'));
+let valoresMedia = parseInt(prompt('insira valor 2'));
+let valoresMedia = parseInt(prompt('insira valor 3'));
+
+let media=function(num1,num2,num3){
      return (num1+num2+num3)/3;
 }
+
