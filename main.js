@@ -13,6 +13,6 @@ function areaQuadrado (lado){
 }
 console.log(areaQuadrado(4));
 
-let media=function(num1,num2,num3){
+let media = function(num1,num2,num3){
      return (num1+num2+num3)/3;
 }
