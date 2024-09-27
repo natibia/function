@@ -1,6 +1,6 @@
 document.querySelector('button');
 const button='button';
-botão.onclick=function(){
+button.onclick=function(){
     alert(vocêclicounobotão)
 }
 function soma (num1,num2){
