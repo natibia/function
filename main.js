@@ -16,4 +16,3 @@ let media=function(num1,num2,num3){
      return (num1+num2+num3)/3;
 }
 console.log(media(valorMedia1,valorMedia2,valorMedia3));
-
